@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/matstrutz](https://github.com/matstrutz)
 
-- 📄 How to reach me and know about my experiences [https://www.linkedin.com/in/matheus-strutz/](https://www.linkedin.com/in/matheus-strutz/)
+- 📄 More about me [https://www.linkedin.com/in/matheus-strutz/](https://www.linkedin.com/in/matheus-strutz/)
 
 - ⚡ Fun fact **I like potatoes**
 
