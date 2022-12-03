@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matstrutz&label=Profile%20views&color=0e75b6&style=flat" alt="matstrutz" /> </p>
 
-- 🌱 I’m currently learning **ReactJs and Flutter**
+- 🌱 Trying to be a Java specialist one day 
 
 - 👨‍💻 All of my projects are available at [https://github.com/matstrutz](https://github.com/matstrutz)
 
